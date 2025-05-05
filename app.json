@@ -78,7 +78,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"BL4Z3-BOT",
       "required":false
 
     } ,
@@ -116,13 +116,13 @@
     "OWNER_NAME":
     {
     
-    "desc": "Owner name",
+    "desc": "BL4Z3",
     "required": false,
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
-      "value":"",
+      "value":"BWM-XMD;;;H4sIAAAAAAAAA72WWY+qyhbHv0u9bveRoaDApJPL6ISK4oDe3IcCCkSZhEIad/zuN2h3upNzTp++yc7liTCs9VvTf9UvkOVxRaakBYNfoCjjK6aku6VtQcAAqHUYkhL0QIApBgPQTMZbfoacXagKJ09fReqCafvOQh+eNrYcTY9c5lZ4jN0EvoB7DxS1l8T+FwYXHj9x5KF7WZ6m5mGPmyY4KPk+8WSL52HgJRddEZi1N+XzF3DvLOK4jLPIKI4kJSVOpqS1cVx+D78ab5vTqBgfF41LCJpLFqPJRb5drEz3sGMCYa/MaUROx9T4Hn6fiPLrfJ/Wm8Ji+sPqx6y/ZvEK+hnbhCvDUJezLTdfLS1l88Sv4igjwTggGY1p++28S0N4QsOS389ZSJqz3K/sZK5Ci0fZq8rP9ltnxOgre0g2y++BqzpPR6eDd1yuLGHLmpFuyHKzGeZnvKoz9bCOt5FSOqOCn30Gt8v3Xjn/L3lvF+Vma+JjPdIjqhfnZNfo3Fhfjs6nPhnNzgTb7pk7envO/x4+6yxUcnIvcF7lXqHrErH9giyJmo71xvbkdcC5SqAebhvmAx/TuvyKUvPT83JEp9EPT8vtzDJZ7ng40dP4fJEVW/AmHHvBpd2vJ3K8mhiqtqgxK3nB6+hqrRA3VlwFrda35ShtWXF56gvTVy1qXh4RnUk7DsCAvfdASaK4oiWmcZ49nsEewMHVIX5J6CO7gMZzjykmV5u2ViPNvOpGvY1DsBb0iwT3l649Xfss42CregE9UJS5T6qKBKO4onnZzkhV4YhUYPDvR6G6mEuS5pRM4gAMACeIiIECK/IC+lf1R3PEtMJF8UdGKOiBsMzTGQEDWtakBx4/GLoGeV0zZFPRTIYzBQ2KSIe6wQuMqEO9izB9Ol3HKakoTgswYBEUIRJ4xN17v4lDFViTVwVZYBlTQhpSRQ4ZoskwEqcjqP6/OCQViaasG6bMs1DQJU1GumFqhqYbEoK88SUHZODv4hA1U5c4HkJW1EUDIShouqIYnApFTZWVf+IQfxeHziBOUTlWkTXGEExe46Ah6YYimIaiKRrzNQfL3P/TAxl5pU956YaCZ3sgjMuKbrK6SHIcvGvP+0vs+3mdUafNfK27ISUYfHpMKI2zqOoiqzNc+sf4SrQuDjAIcVKRew8E5Br7ZPyo58nmTcqfnT2XhDtONcQdJzTdZB3z7PkJYkUWs773k+fk4CfErP8TQyH8ybIcFgUiix5GoEvHU9m7f/5WaGpORe0INcIF3pyr7sOxcIssaXPImIdYPBWClCR4z7KH/XNdrPMzyb6wO72+tu2pQVYslfk+lRWzdWbiUNmZ5092n8oDBr8+tqmWB509TnNdNLNWoKtW5+dP3TCA7J8bIsPpg8aCB75z81aDzkBAKI6TqhNXKxPgZTYy5mkrzJThUDEiRYsU8FGzd4l+aqALx+W1YniFd5ayNFHL9sg14+vkQmQb0+vi5OJhiovt65p5+QsjYAAOfNU/yHhbhpVbNRuB1C4b3opGPuwneojkVpVXk/UxZRevK3k7GR5MMc8cFe29G2J3V4NeNuKEmKfUcco8pGUSHOfK8qXz9uydz85G+VhZS20oO9Tx+2qlV7V1kPdxqSRwlp6LYX/ubuRdfJkl7EE0VwLKRW0eRbdZo82HsLaPzO0YXSu3VS667/vedAdPb8vjsbySt0ND/Kbrz04LY/LYwW81+MdafTQ9c+99svG21f/utLD9oU0Rms+bOXO2Q22JpTyoNKvF2XXNld4tZ7ljkV62/kYG926aiwTTMC/T7tCVehj0QIIrqnwM7V/os4h6IG2VonAopu+zDpTumtwMcP8vWQKm+60KAAA=",
      "required":true
   },
     "WARN_COUNT":
